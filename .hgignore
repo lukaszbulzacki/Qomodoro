@@ -1,0 +1,4 @@
+syntax: glob
+
+build/Debug-QT_5/
+build/Release-QT_5/
